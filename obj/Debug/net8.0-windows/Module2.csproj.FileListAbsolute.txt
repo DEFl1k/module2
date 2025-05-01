@@ -1,0 +1,132 @@
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Module2.exe
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Module2.deps.json
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Module2.runtimeconfig.json
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Module2.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Module2.pdb
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\obj\Debug\net8.0-windows\Module2.csproj.AssemblyReference.cache
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\obj\Debug\net8.0-windows\Module2.Form1.resources
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\obj\Debug\net8.0-windows\Module2.csproj.GenerateResource.cache
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\obj\Debug\net8.0-windows\Module2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\obj\Debug\net8.0-windows\Module2.AssemblyInfoInputs.cache
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\obj\Debug\net8.0-windows\Module2.AssemblyInfo.cs
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\obj\Debug\net8.0-windows\Module2.csproj.CoreCompileInputs.cache
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\obj\Debug\net8.0-windows\Module2.csproj.CopyComplete
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\obj\Debug\net8.0-windows\Module2.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\obj\Debug\net8.0-windows\refint\Module2.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\obj\Debug\net8.0-windows\Module2.pdb
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\obj\Debug\net8.0-windows\Module2.genruntimeconfig.cache
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\obj\Debug\net8.0-windows\ref\Module2.dll
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\obj\Debug\net8.0-windows\Module2.Properties.Resources.resources
+C:\Users\st310-11\Desktop\КОД 09.02.07-2-2025 Приложения к образцу задания Том 1\Module2\obj\Debug\net8.0-windows\Module2.Form2.resources
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\obj\Debug\net8.0-windows\Module2.csproj.AssemblyReference.cache
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\obj\Debug\net8.0-windows\Module2.Form1.resources
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\obj\Debug\net8.0-windows\Module2.Form2.resources
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\obj\Debug\net8.0-windows\Module2.Properties.Resources.resources
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\obj\Debug\net8.0-windows\Module2.csproj.GenerateResource.cache
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\obj\Debug\net8.0-windows\Module2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\obj\Debug\net8.0-windows\Module2.AssemblyInfoInputs.cache
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\obj\Debug\net8.0-windows\Module2.AssemblyInfo.cs
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\obj\Debug\net8.0-windows\Module2.csproj.CoreCompileInputs.cache
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\obj\Debug\net8.0-windows\Module2.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\obj\Debug\net8.0-windows\refint\Module2.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\obj\Debug\net8.0-windows\Module2.pdb
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Module2.exe
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Module2.deps.json
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Module2.runtimeconfig.json
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Module2.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Module2.pdb
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\obj\Debug\net8.0-windows\Module2.csproj.Up2Date
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\obj\Debug\net8.0-windows\Module2.genruntimeconfig.cache
+C:\Users\daun-\OneDrive\Рабочий стол\Module2\obj\Debug\net8.0-windows\ref\Module2.dll
